@@ -1,0 +1,35 @@
+div#main_div{
+    background-color: #ddd;
+    width: 25%;
+    padding: 10px 20px 30px 40px;
+    margin: 10px 20px 30px 40px;
+
+}
+div#product_image{
+    text-align: center;
+}
+#product_info a{
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+a:hover{
+    color: orange;
+    text-decoration: underline;
+}
+#product_info ul li{
+    color: #333;
+    line-height: 1.5;
+}
+#product_info h5{
+    color: orange;
+    text-align: center;
+    font-size: 23px;
+}
+#product_button button{
+    display: block;
+    width: 100%;
+
+}
